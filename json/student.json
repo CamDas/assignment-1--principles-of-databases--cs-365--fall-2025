@@ -1,0 +1,91 @@
+{
+  "students": [{
+
+  "1": {
+    "name": "Gordon",
+    "middleName": "Matthew",
+    "lastName": "Summer",
+    "preferredName": "Sting",
+    "studentID": "1234567",
+    "email": "sting@thepolice.com",
+    "phone": "212.123.4567",
+    "yearStatus": "first year",
+    "gpa": 4.0,
+    "major": "Music",
+    "minor": "English",
+    "gradStatus": "full-time",
+    "advisor": "Andy Summers",
+    "enrollDate": "08-25-1969",
+    "gradDate": "05-01-1973"
+  },
+
+  "2": {
+    "name": "Kim",
+    "middleName": "",
+    "lastName": "Thayil",
+    "preferredName": "",
+    "studentID": "4567890",
+    "email": "kim@soundgarden.com",
+    "phone": "203.123.4567",
+    "yearStatus": "second year",
+    "gpa": 3.0,
+    "major": "Philosophy",
+    "minor": "Music",
+    "gradStatus": "full-time",
+    "advisor": "Chris Cornell",
+    "enrollDate": "08-25-1978",
+    "gradDate": "05-01-1982"
+  },
+  "3": {
+    "name": "Saul",
+    "middleName": "",
+    "lastName": "Hudson",
+    "preferredName": "Slash",
+    "studentID": "8302438",
+    "email": "slash@gnr.com",
+    "phone": "213.456.8392",
+    "yearStatus": "fourth year",
+    "gpa": 2.0,
+    "major": "Music",
+    "minor": "Criminal Justice",
+    "gradStatus": "part-time",
+    "advisor": "Axl Rose",
+    "enrollDate": "08-25-1983",
+    "gradDate": "05-01-1987"
+  },
+  "4": {
+    "name": "Emily",
+    "middleName": "",
+    "lastName": "Kokal",
+    "preferredName": "",
+    "studentID": "2983928",
+    "email": "emily@warpaint.com",
+    "phone": "213.123.7654",
+    "yearStatus": "third year",
+    "gpa": 3.8,
+    "major": "Political Science",
+    "minor": "Law",
+    "gradStatus": "full-time",
+    "advisor": "Jenny Lee Lindberg",
+    "enrollDate": "08-25-1998",
+    "gradDate": "05-01-2002"
+  },
+  "5": {
+    "name": "Mike",
+    "middleName": "",
+    "lastName": "Inez",
+    "preferredName": "",
+    "studentID": "7645726",
+    "email": "mike@aic.com",
+    "phone": "213.444.3323",
+    "yearStatus": "second year",
+    "gpa": 4.0,
+    "major": "Business Management",
+    "minor": "Math",
+    "gradStatus": "full-time",
+    "advisor": "Jerry Cantrell",
+    "enrollDate": "08-25-1984",
+    "gradDate": "05-01-1988"
+  }
+}
+]}

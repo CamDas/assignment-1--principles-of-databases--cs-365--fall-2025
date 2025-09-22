@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE students SYSTEM "student.dtd">
+<students>
+<student>
+  <name>
+    <firstName>Gordon</firstName>
+    <middleName>Matthew</middleName>
+    <lastName>Summer</lastName>
+    <preferredName>"Sting"</preferredName>
+  </name>
+  <personalInfo>
+    <studentID>123456</studentID>
+    <email>sting@thepolice.com</email>
+    <phone>212-123-4567</phone>
+  </personalInfo>
+  <studentInfo>
+    <yearStatus>first year</yearStatus>
+    <gpa>4.0</gpa>
+    <major>Music</major>
+    <minor>English</minor>
+    <gradStatus>full-time</gradStatus>
+    <advisor>Andy Summers</advisor>
+    <enrollDate>08-25-1969</enrollDate>
+    <gradDate>05-01-1973</gradDate>
+  </studentInfo>
+</student>
+
+<student>
+  <name>
+    <firstName>Kim</firstName>
+    <middleName></middleName>
+    <lastName>Thayil</lastName>
+    <preferredName></preferredName>
+  </name>
+  <personalInfo>
+    <studentID>4567890</studentID>
+    <email>kim@soundgarden.com</email>
+    <phone>206.123.4567</phone>
+  </personalInfo>
+  <studentInfo>
+    <yearStatus>second year</yearStatus>
+    <gpa>3.0</gpa>
+    <major>Philosophy</major>
+    <minor>Music</minor>
+    <gradStatus>full-time</gradStatus>
+    <advisor>Chris Cornell</advisor>
+    <enrollDate>08-25-1978</enrollDate>
+    <gradDate>05-01-1982</gradDate>
+  </studentInfo>
+</student>
+
+<student>
+  <name>
+    <firstName>Saul</firstName>
+    <middleName></middleName>
+    <lastName>Hudson</lastName>
+    <preferredName>"Slash"</preferredName>
+  </name>
+  <personalInfo>
+    <studentID>8302438</studentID>
+    <email>slash@gnr.com</email>
+    <phone>213.456.8392</phone>
+  </personalInfo>
+  <studentInfo>
+    <yearStatus>fourth year</yearStatus>
+    <gpa>2.0</gpa>
+    <major>Music</major>
+    <minor>Criminal Justice</minor>
+    <gradStatus>part-time</gradStatus>
+    <advisor>Axl Rose</advisor>
+    <enrollDate>08-25-1983</enrollDate>
+    <gradDate>05-01-1987</gradDate>
+  </studentInfo>
+</student>
+
+<student>
+  <name>
+    <firstName>Emily</firstName>
+    <middleName></middleName>
+    <lastName>Kokal</lastName>
+    <preferredName></preferredName>
+  </name>
+  <personalInfo>
+    <studentID>2983928</studentID>
+    <email>emily@warpaint.com</email>
+    <phone>213.123.7654</phone>
+  </personalInfo>
+  <studentInfo>
+    <yearStatus>third year</yearStatus>
+    <gpa>3.8</gpa>
+    <major>Politcal Science</major>
+    <minor>Law</minor>
+    <gradStatus>full-time</gradStatus>
+    <advisor>Jenny Lee Lindberg</advisor>
+    <enrollDate>08-25-1998</enrollDate>
+    <gradDate>05-01-2002</gradDate>
+  </studentInfo>
+</student>
+
+<student>
+  <name>
+    <firstName>Mike</firstName>
+    <middleName></middleName>
+    <lastName>Inez</lastName>
+    <preferredName></preferredName>
+  </name>
+  <personalInfo>
+    <studentID>7645726</studentID>
+    <email>mike@aic.com</email>
+    <phone>213.444.3323</phone>
+  </personalInfo>
+  <studentInfo>
+    <yearStatus>second year</yearStatus>
+    <gpa>4.0</gpa>
+    <major>Business Management</major>
+    <minor>Math</minor>
+    <gradStatus>full-time</gradStatus>
+    <advisor>Jerry Cantrell</advisor>
+    <enrollDate>08-25-1985</enrollDate>
+    <gradDate>05-01-1988</gradDate>
+  </studentInfo>
+</student>
+</students>

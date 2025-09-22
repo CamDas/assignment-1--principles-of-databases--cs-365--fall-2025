@@ -1,0 +1,60 @@
+<!ELEMENT students (student+)>
+<!--The students container element must contain one or more student elements.-->
+
+
+<!ELEMENT student (name, personalInfo, studentInfo)>
+<!--The student element must contain one name element, one personalInfo element, and one studentInfo element-->
+
+<!ELEMENT name (firstName, middleName?, lastName, preferredName?)>
+<!--A student must have at least firstName and lastName, all personalInfo elements, and all studentInfo elements-->
+
+<!ELEMENT firstName (#PCDATA)>
+<!--First name, always needed-->
+
+<!ELEMENT middleName (#PCDATA)>
+<!--Middle name, optional-->
+
+<!ELEMENT lastName (#PCDATA)>
+<!--Last name, always needed-->
+
+<!ELEMENT preferredName (#PCDATA)>
+<!--Preferred name, optional-->
+
+<!ELEMENT personalInfo (studentID, email, phone)>
+<!--Personal information of student, always will be filled out-->
+
+<!ELEMENT studentID (#PCDATA)>
+<!--Student ID-->
+
+<!ELEMENT email (#PCDATA)>
+<!--Email address-->
+
+<!ELEMENT phone (#PCDATA)>
+<!--Phone number-->
+
+<!ELEMENT studentInfo (yearStatus, gpa, major, minor, gradStatus, advisor, enrollDate, gradDate)>
+<!--Student academic information-->
+
+<!ELEMENT yearStatus (#PCDATA)>
+<!--Year status: freshman, sophomore, junior, senior, graduate-->
+
+<!ELEMENT gpa (#PCDATA)>
+<!--GPA of student-->
+
+<!ELEMENT major (#PCDATA)>
+<!--Major of student-->
+
+<!ELEMENT minor (#PCDATA)>
+<!--Minor of student-->
+
+<!ELEMENT gradStatus (#PCDATA)>
+<!--Graduation status: full-time, part-time, graduated, withdrawn-->
+
+<!ELEMENT advisor (#PCDATA)>
+<!--Advisor of student-->
+
+<!ELEMENT enrollDate (#PCDATA)>
+<!--Enrollment date of student-->
+
+<!ELEMENT gradDate (#PCDATA)>
+<!--Graduation date of student-->
